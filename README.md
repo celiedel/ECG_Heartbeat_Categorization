@@ -1,6 +1,6 @@
 # ECG Heartbeat Categorization
 This project examines tree models, neural networks and a sequence model combining convolutional and LSTM layers for classifying ECG heartbeat signals using the MIT-BIH arrhythmia dataset avbvailable on Kaggle. 
-The project is stuctured in four notebooks and an architectural decision document for easier collabration and reuse. 
+The project is stuctured in four notebooks and an architectural decision document for easier collaboration and reuse. 
 #### * EDA - Initial Data Exploration
 #### * ETL - Extract, Transform, Load
 #### * Feature Engineering
